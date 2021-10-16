@@ -1,31 +1,31 @@
 [
   {
     "full_name": "tailwindlabs/headlessui",
-    "stargazers_count": 10997,
-    "open_issues_count": 66,
-    "forks_count": 376
+    "stargazers_count": 11033,
+    "open_issues_count": 68,
+    "forks_count": 383
   },
   {
     "full_name": "vuesomedev/awesome-vue-3",
-    "stargazers_count": 844,
+    "stargazers_count": 848,
     "open_issues_count": 18,
     "forks_count": 109
   },
   {
     "full_name": "tiangolo/sqlmodel",
-    "stargazers_count": 5425,
+    "stargazers_count": 5470,
     "open_issues_count": 106,
-    "forks_count": 187
+    "forks_count": 190
   },
   {
     "full_name": "Charlieras262/BeatPlayer",
-    "stargazers_count": 20,
-    "open_issues_count": 5,
+    "stargazers_count": 21,
+    "open_issues_count": 4,
     "forks_count": 0
   },
   {
     "full_name": "bluz71/vim-moonfly-statusline",
-    "stargazers_count": 53,
+    "stargazers_count": 54,
     "open_issues_count": 0,
     "forks_count": 7
   },
@@ -33,13 +33,13 @@
     "full_name": "bluz71/vim-moonfly-colors",
     "stargazers_count": 311,
     "open_issues_count": 0,
-    "forks_count": 25
+    "forks_count": 24
   },
   {
     "full_name": "balmjs/balm-ui",
-    "stargazers_count": 254,
-    "open_issues_count": 12,
-    "forks_count": 12
+    "stargazers_count": 261,
+    "open_issues_count": 13,
+    "forks_count": 13
   },
   {
     "full_name": "srcery-colors/srcery-vim",
@@ -55,31 +55,31 @@
   },
   {
     "full_name": "nuxt/modules",
-    "stargazers_count": 284,
+    "stargazers_count": 283,
     "open_issues_count": 44,
     "forks_count": 40
   },
   {
     "full_name": "ValvePython/steam",
-    "stargazers_count": 564,
+    "stargazers_count": 566,
     "open_issues_count": 20,
-    "forks_count": 84
+    "forks_count": 85
   },
   {
     "full_name": "vuematerial/vue-material",
-    "stargazers_count": 9501,
-    "open_issues_count": 253,
-    "forks_count": 1141
+    "stargazers_count": 9504,
+    "open_issues_count": 254,
+    "forks_count": 1142
   },
   {
     "full_name": "formvuelate/formvuelate",
-    "stargazers_count": 357,
-    "open_issues_count": 3,
+    "stargazers_count": 358,
+    "open_issues_count": 4,
     "forks_count": 25
   },
   {
     "full_name": "JanusGraph/janusgraph",
-    "stargazers_count": 4209,
+    "stargazers_count": 4215,
     "open_issues_count": 420,
     "forks_count": 1020
   },
@@ -91,43 +91,43 @@
   },
   {
     "full_name": "honzaap/Systemizer",
-    "stargazers_count": 1155,
+    "stargazers_count": 1158,
     "open_issues_count": 12,
     "forks_count": 67
   },
   {
     "full_name": "tenacityteam/tenacity",
-    "stargazers_count": 6370,
-    "open_issues_count": 122,
-    "forks_count": 261
+    "stargazers_count": 6380,
+    "open_issues_count": 123,
+    "forks_count": 262
   },
   {
     "full_name": "armosec/kubescape",
-    "stargazers_count": 4097,
-    "open_issues_count": 16,
-    "forks_count": 170
+    "stargazers_count": 4130,
+    "open_issues_count": 14,
+    "forks_count": 172
   },
   {
     "full_name": "praetorian-inc/gokart",
-    "stargazers_count": 1772,
+    "stargazers_count": 1774,
     "open_issues_count": 17,
     "forks_count": 68
   },
   {
     "full_name": "jarun/bcal",
-    "stargazers_count": 484,
+    "stargazers_count": 490,
     "open_issues_count": 0,
     "forks_count": 32
   },
   {
     "full_name": "quatrochan/Equal",
-    "stargazers_count": 636,
+    "stargazers_count": 639,
     "open_issues_count": 11,
     "forks_count": 42
   },
   {
     "full_name": "chakra-ui/chakra-ui-vue",
-    "stargazers_count": 1295,
+    "stargazers_count": 1299,
     "open_issues_count": 47,
     "forks_count": 100
   },
@@ -147,35 +147,35 @@
     "full_name": "Qv2ray/Qv2ray",
     "stargazers_count": 12540,
     "open_issues_count": 20,
-    "forks_count": 2359
+    "forks_count": 2366
   },
   {
     "full_name": "NvChad/NvChad",
-    "stargazers_count": 6862,
-    "open_issues_count": 11,
-    "forks_count": 371
+    "stargazers_count": 6882,
+    "open_issues_count": 12,
+    "forks_count": 372
   },
   {
     "full_name": "RustPython/RustPython",
-    "stargazers_count": 9345,
-    "open_issues_count": 189,
-    "forks_count": 649
+    "stargazers_count": 9356,
+    "open_issues_count": 186,
+    "forks_count": 650
   },
   {
     "full_name": "nuxt-community/dayjs-module",
     "stargazers_count": 177,
-    "open_issues_count": 9,
+    "open_issues_count": 11,
     "forks_count": 8
   },
   {
     "full_name": "deadlyjack/code-editor",
-    "stargazers_count": 554,
-    "open_issues_count": 103,
-    "forks_count": 145
+    "stargazers_count": 556,
+    "open_issues_count": 105,
+    "forks_count": 146
   },
   {
     "full_name": "adamdehaven/vue-custom-tooltip",
-    "stargazers_count": 32,
+    "stargazers_count": 33,
     "open_issues_count": 7,
     "forks_count": 3
   }
